@@ -49,7 +49,7 @@
       "mocha": true
     }
   },
-  "repository": "peoplewareDo/generator-ng-2-seed-advanced",
+  "repository": "peoplewareDo/generator-ng2-seed-advanced",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
