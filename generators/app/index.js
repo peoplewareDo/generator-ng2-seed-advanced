@@ -23,7 +23,7 @@ module.exports = yeoman.Base.extend({
   prompting: function () {
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the solid ' + chalk.red('generator-ng-2-seed-advanced') + ' generator!'
+      'Welcome to the solid ' + chalk.red('generator-ng2-seed-advanced') + ' generator!'
     ));
 
     var prompts = [{
@@ -157,7 +157,7 @@ module.exports = yeoman.Base.extend({
   prompting: function () {
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the sublime ' + chalk.red('generator-ng-2-seed-advanced') + ' generator!'
+      'Welcome to the sublime ' + chalk.red('generator-ng2-seed-advanced') + ' generator!'
     ));
 
     var prompts = [{

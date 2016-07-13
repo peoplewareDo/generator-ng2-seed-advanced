@@ -1,13 +1,13 @@
-# generator-ng-2-seed-advanced [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-ng2-seed-advanced [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > An advanced Angular2 project generator with support for ngrx/store, ng2-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-ng-2-seed-advanced using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-ng2-seed-advanced using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-ng-2-seed-advanced
+npm install -g generator-ng2-seed-advanced
 ```
 
 Then generate your new project:
@@ -28,9 +28,9 @@ yo ng-2-seed-advanced
 MIT © [victorsosa](www.peopleware.do)
 
 
-[npm-image]: https://badge.fury.io/js/generator-ng-2-seed-advanced.svg
-[npm-url]: https://npmjs.org/package/generator-ng-2-seed-advanced
-[travis-image]: https://travis-ci.org/peoplewareDo/generator-ng-2-seed-advanced.svg?branch=master
-[travis-url]: https://travis-ci.org/peoplewareDo/generator-ng-2-seed-advanced
-[daviddm-image]: https://david-dm.org/peoplewareDo/generator-ng-2-seed-advanced.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/peoplewareDo/generator-ng-2-seed-advanced
+[npm-image]: https://badge.fury.io/js/generator-ng2-seed-advanced.svg
+[npm-url]: https://npmjs.org/package/generator-ng2-seed-advanced
+[travis-image]: https://travis-ci.org/peoplewareDo/generator-ng2-seed-advanced.svg?branch=master
+[travis-url]: https://travis-ci.org/peoplewareDo/generator-ng2-seed-advanced
+[daviddm-image]: https://david-dm.org/peoplewareDo/generator-ng2-seed-advanced.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/peoplewareDo/generator-ng2-seed-advanced
