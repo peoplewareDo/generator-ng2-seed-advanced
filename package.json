@@ -22,7 +22,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "angular2-seed-advanced":"angular2-seed-advanced",
+    "angular2-seed-advanced":"1.0.0",
     "yeoman-generator": "^0.23.0",
     "chalk": "^1.0.0",
     "yosay": "^1.0.0",
