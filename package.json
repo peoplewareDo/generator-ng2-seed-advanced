@@ -9,9 +9,10 @@
     "url": "www.peopleware.do"
   },
   "files": [
-    "generators"
+    "generators/app",
+    "generators/component"  
   ],
-  "main": "generators/index.js",
+  "main": "generators/app/index.js",
   "keywords": [
     "angular2",
     "generator",
@@ -21,7 +22,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "angular2-seed-advanced":"1.0.0",
+    "angular2-seed-advanced":"angular2-seed-advanced",
     "yeoman-generator": "^0.23.0",
     "chalk": "^1.0.0",
     "yosay": "^1.0.0",
