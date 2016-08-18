@@ -55,5 +55,11 @@
     "prepublish": "gulp prepublish",
     "test": "gulp"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "contributors": [
+		{
+			"name": "orangedrink",
+			"url": "https://github.com/orangedrink"
+		}
+],
 }
