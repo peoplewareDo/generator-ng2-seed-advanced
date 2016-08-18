@@ -138,7 +138,22 @@ module.exports = yeoman.Base.extend({
 
   install: function () {
     this.npmInstall();
+    this.installingBootstrap();
+    this.installingMaterial();
+    this.installingJquery();
   },
+
+  installingBootstrap: function() {
+    this.npmInstall(['bootstrap'], { 'saveDev': true });
+  },
+
+  installingMaterial: function() {
+    this.npmInstall(['material'], { 'saveDev': true });
+  },
+
+  installingJquery: function() {
+    this.npmInstall(['jquery'], { 'saveDev': true });
+  },      
 
   end: function () {
     this.log(yosay(
