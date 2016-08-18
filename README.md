@@ -1,4 +1,8 @@
-# generator-ng2-seed-advanced [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-ng2-seed-advanced 
+[![npm](https://img.shields.io/npm/v/generator-ng2-seed-advanced.svg)](https://www.npmjs.com/package/generator-ng2-seed-advanced)
+[![npm](https://img.shields.io/npm/dt/generator-ng2-seed-advanced.svg?label=npm%20downloads)](https://www.npmjs.com/package/generator-ng2-seed-advanced)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 > An advanced Angular2 project generator with support for ngrx/store, ng2-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
 
 ### Installation
@@ -38,11 +42,3 @@ yo ng-2-seed-advanced
 ### License
 
 MIT © [victorsosa](www.peopleware.do)
-
-
-[npm-image]: https://badge.fury.io/js/generator-ng2-seed-advanced.svg
-[npm-url]: https://npmjs.org/package/generator-ng2-seed-advanced
-[travis-image]: https://travis-ci.org/peoplewareDo/generator-ng2-seed-advanced.svg?branch=master
-[travis-url]: https://travis-ci.org/peoplewareDo/generator-ng2-seed-advanced
-[daviddm-image]: https://david-dm.org/peoplewareDo/generator-ng2-seed-advanced.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/peoplewareDo/generator-ng2-seed-advanced
