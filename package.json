@@ -1,6 +1,6 @@
 {
   "name": "generator-ng2-seed-advanced",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An advanced Angular2 project generator with support for ngrx/store, ng2-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.",
   "homepage": "https://github.com/peoplewareDo/generator-ng2-seed-advanced",
   "author": {
