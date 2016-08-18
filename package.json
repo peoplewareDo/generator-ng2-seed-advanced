@@ -22,13 +22,13 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "angular2-seed-advanced":">1.0.0",
+    "angular2-seed-advanced":">=1.0.0",
     "yeoman-generator": ">0.23.0",
-    "chalk": ">1.0.0",
-    "yosay": "?1.0.0",
+    "chalk": ">=1.0.0",
+    "yosay": ">=1.0.0",
     "camel-case": ">1.0.2",
     "capitalize": ">0.5.0",
-    "fs-walk": ">0.0.1"   
+    "fs-walk": ">=0.0.1"   
   },
   "devDependencies": {
     "yeoman-test": "^1.0.0",
