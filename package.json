@@ -9,9 +9,10 @@
     "url": "www.peopleware.do"
   },
   "files": [
-    "generators"
+    "generators/app",
+    "generators/component"  
   ],
-  "main": "generators/index.js",
+  "main": "generators/app/index.js",
   "keywords": [
     "angular2",
     "generator",
