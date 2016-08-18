@@ -30,7 +30,7 @@ module.exports = yeoman.Base.extend({
         type: 'input',
         name: 'name',
         message: 'What is your project name?',
-        default: 'yourproject'
+        default: 'your-project'
       }, {
         type: 'input',
         name: 'username',
@@ -146,41 +146,3 @@ module.exports = yeoman.Base.extend({
     ));
   }
 });
-
-/**
-'use strict';
-var yeoman = require('yeoman-generator');
-var chalk = require('chalk');
-var yosay = require('yosay');
-
-module.exports = yeoman.Base.extend({
-  prompting: function () {
-    // Have Yeoman greet the user.
-    this.log(yosay(
-      'Welcome to the sublime ' + chalk.red('generator-ng2-seed-advanced') + ' generator!'
-    ));
-
-    var prompts = [{
-      type: 'confirm',
-      name: 'someAnswer',
-      message: 'Would you like to enable this option?',
-      default: true
-    }];
-
-    return this.prompt(prompts).then(function (props) {
-      // To access props later use this.props.someAnswer;
-      this.props = props;
-    }.bind(this));
-  },
-
-  writing: function () {
-    this.fs.copy(
-      this.templatePath('dummyfile.txt'),
-      this.destinationPath('dummyfile.txt')
-    );
-  },
-
-  install: function () {
-    this.installDependencies();
-  }
-});*/
