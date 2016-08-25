@@ -22,15 +22,21 @@ yo ng-2-seed-advanced
 ```
 
 ### Generate a new component
-```bash yo ng-2-seed-advanced:component < component name >
+
+```bash 
+yo ng-2-seed-advanced:component < component name >
 ```
 
 ### Generate a new router
-```bash yo ng-2-seed-advanced:router < router name >
+
+```bash 
+yo ng-2-seed-advanced:router < router name >
 ```
 
 ### Generate a new service
-```bash yo ng-2-seed-advanced:service < service name >
+
+```bash 
+yo ng-2-seed-advanced:service < service name >
 ```
 
 ### Getting To Know Yeoman
