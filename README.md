@@ -11,7 +11,7 @@
 First, install [Yeoman](http://yeoman.io) and generator-ng2-seed-advanced using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
-npm install -g yo gulp gulp-cli typescript
+npm install -g yo typings gulp gulp-cli typescript
 npm install -g generator-ng2-seed-advanced
 ```
 
